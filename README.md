@@ -1,4 +1,4 @@
-# HummingBird_android
+# HummingBird for android
 3rd-party Twitter client for Android
 Corresponding to operate Huawei Mobile Services
 
