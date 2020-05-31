@@ -1,8 +1,9 @@
-package dev.kurokiri.hummingbird
+package dev.kurokiri.hummingbird.views
 
 import MenuListDialogFragment
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import dev.kurokiri.hummingbird.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
