@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
             val menuListDialogFragment = MenuListDialogFragment()
             menuListDialogFragment.show(supportFragmentManager, menuListDialogFragment.tag)
         }
+
+
     }
 }

@@ -5,4 +5,7 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_accounts">Accounts</string>
+
+    <string name="tweet_hint">New Tweet</string>
+    <string name="post">Post</string>
 </resources>
